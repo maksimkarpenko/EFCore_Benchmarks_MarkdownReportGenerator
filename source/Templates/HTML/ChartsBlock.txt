@@ -1,0 +1,6 @@
+﻿<h2>{METHOD}</h2>
+
+<td><img src="images/{METHOD}_smallDataSet.{IMAGE-FORMAT}" width="100%"/></td>
+<td><img src="images/{METHOD}_largeDataSet.{IMAGE-FORMAT}" width="100%"/></td>
+
+</br>

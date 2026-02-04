@@ -1,0 +1,17 @@
+﻿<html>
+	<head>
+		<style>
+			body{
+				font-family: tahoma;
+				font-size: 8pt;
+			}
+			table{
+				font-size: 8pt;
+				border-collapse: collapse;
+			}
+			td{
+				padding: 2px;
+			}
+		</style>
+	</head>
+	<body>
